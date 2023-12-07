@@ -1,0 +1,8 @@
+{
+	"libro":{
+	"capitoli":["Capitolo 1","Capitolo 2","Capitolo 3","Capitolo 4","Capitolo 5","Capitolo 6","Capitolo 7","Capitolo 8","Capitolo 9","Capitolo 10"],
+	"autore":{
+	"nome":"John",
+	"indirizzo":"John.freeman@gmail.com"}
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"CD":{"nome CD":"FLOP",
+		"casa discografica":"Sony Music Entertainment",
+		"artista":"Salmo",
+		"anno di pubblicazione":"2021",
+		"genere musicale":"Rap-Hip Hop",
+		"canzoni":{
+			"tracce musicali":{
+				"traccia1":{
+					"nome":"ANTIPATICO",
+					"durata":"1.58"
+				},
+				"traccia2":{
+					"nome":"MI SENTO BENE",
+					"durata":"3.04"
+				},
+				"traccia3":{
+					"nome":"CRIMINALE",
+					"durata":"2.39"
+				},
+				"traccia4":{
+					"nome":"GHIGLIOTTINA - feat. Noyz Narcos",
+					"durata":"3.07"
+				},
+				"traccia5":{
+					"nome":"IN TRAPPOLA",
+					"durata":"1.53"
+				},
+				"traccia6":{
+					"nome":"LA CHIAVE - feat. Marracash",
+					"durata":"2"
+				},
+				"traccia7":{
+					"nome":"KUMITE",
+					"durata":"2.51"
+				},
+				"traccia8":{
+					"nome":"CHE NE SO",
+					"durata":"2.18"
+				},
+				"traccia9":{
+					"nome":"YHWH - feat. Guè",
+					"durata":"3.12"
+				},
+				"traccia10":{
+					"nome":"HELLVISBACK 2",
+					"durata":"2.39"
+				},
+				"traccia11":{
+					"nome":"A DIO",
+					"durata":"2.55"
+				},
+				"traccia12":{
+					"nome":"FUORI DI TESTA - feat. Par-T-One",
+					"durata":"3.06"
+				},
+				"traccia13":{
+					"nome":"MARLA",
+					"durata":"3.36"
+				},
+				"traccia14":{
+					"nome":"L'ANGELO CADUTO - feat. Shari",
+					"durata":"3.25"
+				},
+				"traccia15":{
+					"nome":"VIVO",
+					"durata":"1.59"
+				},
+				"traccia16":{
+					"nome":"FLOP!",
+					"durata":"3.02"
+				},
+				"traccia17":{
+					"nome":"ALDO RITMO",
+					"durata":"2.41"
+				},
+			}
+}
